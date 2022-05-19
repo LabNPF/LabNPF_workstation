@@ -1,12 +1,12 @@
 @echo off
 
 rem Installer/updater for the LabNPF_workstation Folder
-rem	https://github.com/ferreira-santos/LabNPF_workstation
-rem 	Fernando Ferreira-Santos
+rem	https://github.com/LabNPF/LabNPF_workstation
+rem 	Fernando Ferreira-Santos (Laboratory of Neuropsychophysiology, University of Porto)
 
 echo.
 echo ** Installer/updater for the LabNPF_workstation Folder
-echo ** https://github.com/ferreira-santos/LabNPF_workstation
+echo ** https://github.com/LabNPF/LabNPF_workstation
 
 if exist C:\LabNPF_workstation\ (
 		echo.
@@ -50,7 +50,7 @@ if not exist C:\LabNPF_workstation\ (
 echo.
 echo LabNPF_workstation Folder installation completed. The installation/update process moves the new folder so to reinstall/update please download again.
 echo.
-echo To use, complete the final installation steps (add to MATLAB path) as described: https://github.com/ferreira-santos/LabNPF_workstation#instalationupdate
+echo To use, complete the final installation steps (add to MATLAB path) as described: https://github.com/LabNPF/LabNPF_workstation#instalationupdate
 echo.
 pause
 goto :EOF
