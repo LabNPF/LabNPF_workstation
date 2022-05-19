@@ -1,13 +1,13 @@
 Name: LabNPF_workstation
 Type: Folder with matlab scripts and misc files
 Title: LabNPF_workstation Folder
-Version: 0.2.2
+Version: 0.2.3
 Authors: Fernando Ferreira-Santos (frsantos@fpce.up.pt)
 Description: Folder to be installed in the Lab's workstations to store 
       files related to managing the workstation, matlab toolboxes, and 
       other lab-related files. Includes matlab scripts to select which 
       EEGLAB version to run on a given session, effectively allowing 
       multiple EEGLAB versions to be available in the same PC.
-URL: https://github.com/ferreira-santos/LabNPF_workstation
-BugReports: https://github.com/ferreira-santos/LabNPF_workstation/issues
-Date: 2021-04-27
+URL: https://github.com/LabNPF/LabNPF_workstation
+BugReports: https://github.com/LabNPF/LabNPF_workstation/issues
+Date: 2022-05-19
