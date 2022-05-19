@@ -21,7 +21,7 @@ function labnpf_select_eeglab_version(toolboxes_path)
 % 
 % History:
 %   2022-05-19: moved from personal to organisation repository [FFS]
-%	  2018-06-06: moving to GitHub for storage and automatic version control [FFS]
+%   2018-06-06: moving to GitHub for storage and automatic version control [FFS]
 %   2018-06-04: first version of the script [FFS]
 %
 
