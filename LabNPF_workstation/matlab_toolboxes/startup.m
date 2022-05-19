@@ -1,5 +1,5 @@
 % Matlab startup routines for LabNPF workstations
-%	GitHub repository: https://github.com/ferreira-santos/LabNPF_workstation
+%	GitHub repository: https://github.com/LabNPF/LabNPF_workstation
 %
 % Usage: 
 %	Automatically runs when Matlab starts.
@@ -7,7 +7,8 @@
 %   added to the Matlab path (typically "C:\LabNPF_workstation\matlab_toolboxes\").
 %
 % History:
-%	2018-06-06: moving to GitHub for storage and automatic version control [FFS]
+%   2022-05-19: moved from personal to organisation repository [FFS]
+%   2018-06-06: moving to GitHub for storage and automatic version control [FFS]
 %   2018-06-04: first version of the script [FFS]
 %
 
