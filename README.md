@@ -45,4 +45,4 @@ Possible updates to the folder include:
 - cheatsheets/reference documents (e.g., conversion between EGI and 10-20 electrode positions)
 - add subfolder "r_scripts" for installing important R packages automatically when R is updated?
 
-Lab members are welcome to report bugs or suggest improvements to the folder. Please use the "issues" tool in GitHub (https://github.com/ferreira-santos/LabNPF_workstation/issues).
+Lab members are welcome to report bugs or suggest improvements to the folder. Please use the "issues" tool in GitHub (https://github.com/LabNPF/LabNPF_workstation/issues).
