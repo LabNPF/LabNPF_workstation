@@ -11,7 +11,7 @@ function labnpf_select_eeglab_version(toolboxes_path)
 % Author:
 %   Fernando Ferreira-Santos (http://ferreira-santos.eu), 2018-06
 %   Laboratory of Neuropsychophysiology, University of Porto
-%   GitHub repository: https://github.com/ferreira-santos/LabNPF_workstation
+%   GitHub repository: https://github.com/LabNPF/LabNPF_workstation
 %
 % Usage: 
 %   labnpf_select_eeglab_version(toolboxes_path)
@@ -20,7 +20,8 @@ function labnpf_select_eeglab_version(toolboxes_path)
 %   toolboxes_path:    path to folder where EEGLAB toolboxes are installed.
 % 
 % History:
-%	2018-06-06: moving to GitHub for storage and automatic version control [FFS]
+%   2022-05-19: moved from personal to organisation repository [FFS]
+%	  2018-06-06: moving to GitHub for storage and automatic version control [FFS]
 %   2018-06-04: first version of the script [FFS]
 %
 
